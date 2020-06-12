@@ -1,0 +1,3 @@
+user:
+    role: Overriden Role (genenal)    # property existed in more specific config file -> will be overriden
+    email: optsd@gmail.com            # new property behaves as general property, can be use for all application/profile
